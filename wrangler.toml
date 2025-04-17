@@ -1,4 +1,4 @@
-name = "mental-health"
+name = "mentalhealth"
 main = "worker.js"
 compatibility_date = "2024-02-13"
 
